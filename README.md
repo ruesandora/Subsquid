@@ -7,18 +7,18 @@
 
 > Komutlar zaten mevcut ama yinede özetle;
 
-```
+```console
 sudo apt update -y && sudo apt upgrade -y
 apt install npm
 ```
 
-> 1- Daha sonra subsquid panelinde ki komutları sırasıyla kullanıyorsunuz
+> 1- Daha sonra subsquid panelinde ki komutları `sırasıyla` kullanıyorsunuz
 
-> 2- Set up your squid kısmına gelince kücük harflerle isim belirliyorsunuz
+> 2- `Set up your squid` kısmına gelince kücük harflerle `isim` belirliyorsunuz
 
-> 3- Blockchain Type seçiyorsunuz ve komutu giriyorsunuz. (Type tercihi size bağlı farklılık iyi olabilir idk.)
+> 3- `Blockchain Type` seçiyorsunuz ve komutu giriyorsunuz. (Type tercihi size bağlı farklılık iyi olabilir idk.)
 
-> 4- Deploy ediyoruz ve sync oluyoruz.
+> 4- `Deploy` ediyoruz ve `sync` oluyoruz.
 
 ### Devamı çok yakında..
 
