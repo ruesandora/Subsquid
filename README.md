@@ -1,6 +1,10 @@
 # Subsquid
 
 
+### Donanım konusu şimdilik [Sentiment](https://github.com/ruesandora/santiment) ile aynı. 
+
+#
+
 > Hala başvurmayanlar için [buradan](https://subsquid.deform.cc/testnetnodeapplication/).
 
 > Sonra [buraya](https://app.subsquid.io/squids/deploy) giriyoruz, mail cüzdan ne varsa başvuru yaparken onu bağlıyoruz.
