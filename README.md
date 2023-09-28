@@ -14,6 +14,7 @@
 ```console
 sudo apt update -y && sudo apt upgrade -y
 apt install npm
+npm i @npmcli/fs
 ```
 
 > 1- Daha sonra subsquid panelinde ki komutları `sırasıyla` kullanıyorsunuz
